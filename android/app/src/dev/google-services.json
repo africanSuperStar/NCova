@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037152984459",
+    "firebase_url": "https://ncova-2020.firebaseio.com",
+    "project_id": "ncova-2020",
+    "storage_bucket": "ncova-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037152984459:android:9b4d7c73a67eec9203a38e",
+        "android_client_info": {
+          "package_name": "com.forthepeople.uncovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037152984459-oen3luv45hpn95h7obokfd0uettafu2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1RswCfXOCE_HgRRwVGj5o0kJXOtm1RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037152984459-oen3luv45hpn95h7obokfd0uettafu2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037152984459-fl4r7k62v9vvoaddl8ka4us0k4381b27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forthepeople.uncovid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

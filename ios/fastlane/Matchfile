@@ -1,0 +1,9 @@
+git_url "https://gitlab.com/4-the-people/ios-certificates"
+
+type "development" # The default type, can be: appstore, adhoc, enterprise or development
+
+app_identifier ["com.forthepeople.uncovid", "com.forthepeople.uncovid.dev"]
+username "cameron.debruyn@icloud.com" # Your Apple Developer Portal username
+
+# For all available options run `fastlane match --help`
+# Remove the # in the beginning of the line to enable the other options
